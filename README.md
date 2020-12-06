@@ -1,7 +1,7 @@
 <h1 align="center">Skin Cancer Sentinel</h1></br>
 
 ## :hourglass: Project Video
-:movie_camera: [YouTube Demo Link](https://www.youtube.com/watch?v=o2QJOXf3Vd0&t=10s) </br>
+:movie_camera: [YouTube Demo Link](https://youtu.be/KSUI60-z7ys) </br>
 
 ## :innocent: Motivation
 Skin cancer is a dangerous and widespread disease, and early detection increases the survival rate. It is found that a skilled dermatologist usually follows a series of steps, starting with the naked-eye observation of suspected lesions, then dermoscopy followed by biopsy. This would consume time and the disease may advance to later stages. Moreover, accurate diagnosis is subjective, depending on the skill of the clinician. In order to diagnose skin cancer speedily at the earliest stage, we need extensive research solutions by developing computer image analysis algorithms. We have come up with an AI Based Solution Compliance for predictive modelling and diagnosis of Skin Cancer disease. </br>
