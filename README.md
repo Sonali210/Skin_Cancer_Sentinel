@@ -30,4 +30,4 @@ Skin cancer is a dangerous and widespread disease, and early detection increases
 
 
 ## :heart: Owner
-Made with :heart:&nbsp; by [Gaurav Singh](https://github.com/gaurav82692) and [Sonali](https://github.com/Sonali210)
+Made with :heart:&nbsp; by [Anjali Singh]() and [Sonali](https://github.com/Sonali210)
